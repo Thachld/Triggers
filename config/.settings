@@ -1,0 +1,17 @@
+{
+    "projectName": "Triggers",
+    "username": "thachld@gimasys.com",
+    "id": "c70b9c50-a1f0-11e8-a600-05efe64cf769",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://sfdx-learning-dev-ed.my.salesforce.com",
+    "workspace": "D:\\Salesforce\\SFDC Workspaces",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
